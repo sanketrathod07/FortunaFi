@@ -1,0 +1,8 @@
+/* Custom scrollbar style for WebKit (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Adjust the scrollbar width */
+    background-color: transparent;
+    /* Initially transparent */
+    visibility: hidden;
+}
